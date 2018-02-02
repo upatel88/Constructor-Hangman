@@ -5,8 +5,12 @@ To play:
 
 Run from terminal by typing:
 	node index.js
+	
+	
 NPM DEPENDENCIES:
 
 	prompt
 	inquirer
+	
+	
 words.txt contains words to guess, feel free to add more words/phrases.
