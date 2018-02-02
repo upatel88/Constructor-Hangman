@@ -4,6 +4,7 @@ A node command line hangman game utilizing Javascript Constructor functions, obj
 To play:
 
 Run from terminal by typing:
+
 	node index.js
 	
 	
