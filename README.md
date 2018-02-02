@@ -1,7 +1,9 @@
 #Advanced JavaScript Assignment: Constructor Hangman
 
 A node command line hangman game utilizing Javascript Constructor functions, object prototypes, and callback functions.
-To play:
+
+
+To play/install:
 
 
 Constructor-Hangman can be downloaded by cloning this repository https://github.com/upatel88/Constructor-Hangman
