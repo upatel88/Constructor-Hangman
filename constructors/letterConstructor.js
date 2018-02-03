@@ -20,4 +20,5 @@ function LetterConstructor(letter){ // Letter constructor for each letter of a w
   }; // End of displayLetter()
 }; // End of LetterConstructor
 
-/////////////////////////////////////////////// /* Export Mo
+/////////////////////////////////////////////// /* Export Module */ //////////////////////////////////////////////////////////
+module.exports = LetterConstructor;
